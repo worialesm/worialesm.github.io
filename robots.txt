@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://worialesm.github.io/sitemap
+Sitemap: https://worialesm.github.io/app/sitemap
+Sitemap: https://worialesm.github.io/assets/sitemap
+Sitemap: https://worialesm.github.io/css/sitemap
+Sitemap: https://worialesm.github.io/includes/sitemap
+Sitemap: https://worialesm.github.io/item/sitemap
+Sitemap: https://worialesm.github.io/src/sitemap
